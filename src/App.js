@@ -380,16 +380,16 @@ export default function App() {
         <div className="container mx-auto px-4 py-4">
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-4">
-              <a href="https://originz.crazzzymonsters.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://crofam-token.com/" target="_blank" rel="noopener noreferrer">
                 <button className="bg-orange-500 p-1 rounded-lg hover:bg-orange-600 transition-colors duration-200">
                   <img 
-                    src="https://originz.crazzzymonsters.com/assets/logo-mini-8Yrt7yOx.png"
+                    src="https://crofam-token.com/wp-content/uploads/2024/04/crofam_logo-2-300x93.png"
                     alt="Logo"
                     className="w-16 h-8 md:w-15 md:h-10"
                   />
                 </button>
               </a>
-              <span className="text-lg md:text-xl font-bold">CRAZZZY MONSTERS</span>
+              <span className="text-lg md:text-xl font-bold">CROFAM LIONS</span>
             </div>
             
             <div className="relative">
@@ -418,7 +418,7 @@ export default function App() {
                           <p className="font-bold">{Number(croBalance).toFixed(2)} CRO</p>
                         </div>
                         <div>
-                          <p className="text-gray-400 text-sm">CRY Balance</p>
+                          <p className="text-gray-400 text-sm">CROFAM Balance</p>
                           <p className="font-bold">{Number(cryBalance).toFixed(2)} CRY</p>
                         </div>
                         <hr className="border-gray-700" />
@@ -495,12 +495,12 @@ export default function App() {
             <div className="space-y-3">
               <div className="flex justify-between items-center text-sm text-gray-400">
                 <span>Total Minted</span>
-                <span className="font-medium">{totalMinted}/10000</span>
+                <span className="font-medium">{totalMinted}/3000</span>
               </div>
               <div className="bg-gray-700 rounded-full h-4 overflow-hidden">
                 <div
                   className="bg-orange-500 h-full transition-all duration-500 ease-in-out rounded-full"
-                  style={{ width: `${(totalMinted / 10000) * 100}%` }}
+                  style={{ width: `${(totalMinted / 3000) * 100}%` }}
                 />
               </div>
               <div className="grid grid-cols-2 gap-4 text-sm">
@@ -509,8 +509,8 @@ export default function App() {
                   <p className="font-medium">{croMinted}/{maxCroMint}</p>
                 </div>
                 <div>
-                  <p className="text-gray-400">CRY Minted</p>
-                  <p className="font-medium">{cryMinted}/{maxCryMint}</p>
+                  <p className="text-gray-400">CROFAM Minted</p>
+                  <p className="font-medium">{crofamMinted}/{maxCrofamMint}</p>
                 </div>
               </div>
             </div>
@@ -591,7 +591,7 @@ export default function App() {
           <h2 
             className="text-2xl md:text-2xl font-bold mb-6 text-white text-center"
             style={{ 
-              fontFamily: "'Melted Monster', sans-serif",
+              fontFamily: "'Vegan Abattoir', sans-serif;,
               letterSpacing: '0.05em',
               lineHeight: '1.2',
               textShadow: '2px 2px 4px rgba(0, 0, 0, 0.3)'
