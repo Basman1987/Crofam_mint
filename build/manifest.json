@@ -1,0 +1,16 @@
+{
+  "short_name": "Crazzzy Monsters",
+  "name": "Crazzzy Monsters NFT",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "64x64 128x128 256x256 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f97316",
+  "background_color": "#1f2937"
+}
