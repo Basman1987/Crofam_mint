@@ -404,7 +404,7 @@ export default function App() {
                 <div className="relative wallet-dropdown">
                   <button
                     onClick={() => setIsDropdownOpen(!isDropdownOpen)}
-                    className="bg-orange-500 hover:bg-orange-600 px-5 py-2 rounded-lg font-semibold transition-colors flex items-center gap-2"
+                    className="bg-blue-500 hover:bg-blue-600 px-5 py-2 rounded-lg font-semibold transition-colors flex items-center gap-2"
                   >
                     <Wallet size={20} />
                     {`${account.slice(0, 6)}...${account.slice(-4)}`}
@@ -418,7 +418,7 @@ export default function App() {
                           <p className="font-bold">{Number(croBalance).toFixed(2)} CRO</p>
                         </div>
                         <div>
-                          <p className="text-gray-400 text-sm">CRY Balance</p>
+                          <p className="text-gray-400 text-sm">CROFAM Balance</p>
                           <p className="font-bold">{Number(cryBalance).toFixed(2)} CRY</p>
                         </div>
                         <hr className="border-gray-700" />
@@ -443,7 +443,7 @@ export default function App() {
               ) : (
                 <button
                   onClick={connectWallet}
-                  className="bg-orange-500 hover:bg-orange-600 px-6 py-2 rounded-lg font-semibold transition-colors flex items-center gap-2"
+                  className="bg-blue-500 hover:bg-blue-600 px-6 py-2 rounded-lg font-semibold transition-colors flex items-center gap-2"
                 >
                   <Wallet size={20} />
                   Connect Wallet
@@ -476,7 +476,7 @@ export default function App() {
                   textShadow: '2px 2px 4px rgba(0, 0, 0, 0.3)'
                 }}
               >
-                CROFAM MINT
+                The PRIDE by $CROFam Token
               </h1>
 
             <div className="grid grid-cols-2 gap-4">
@@ -509,7 +509,7 @@ export default function App() {
                   <p className="font-medium">{croMinted}/{maxCroMint}</p>
                 </div>
                 <div>
-                  <p className="text-gray-400">CRY Minted</p>
+                  <p className="text-gray-400">CROFAM Minted</p>
                   <p className="font-medium">{cryMinted}/{maxCryMint}</p>
                 </div>
               </div>
@@ -639,7 +639,7 @@ export default function App() {
             <h3 className="text-xl font-bold mb-4">Join the PRIDE</h3>
             <p className="text-gray-400">
               Built By <a 
-              href="https://x.com/HQCroFam" 
+              href="https://x.com/CrazzzyMonsters" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="text-orange-500 hover:text-orange-600 transition-colors"
@@ -649,7 +649,7 @@ export default function App() {
             </p>
             <div className="flex justify-center space-x-6 mt-6">
               <a
-                href="https://discord.com/invite/YjYHgKNapj"
+                href="https://discord.gg/ykvhhEJj"
                 className="text-gray-400 hover:text-white transition-colors"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -657,7 +657,7 @@ export default function App() {
                 Discord
               </a>
               <a
-                href="https://x.com/CrazzzyMonsters"
+                href="https://x.com/HQCroFam"
                 className="text-gray-400 hover:text-white transition-colors"
                 target="_blank"
                 rel="noopener noreferrer"
