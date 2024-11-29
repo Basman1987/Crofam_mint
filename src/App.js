@@ -381,7 +381,7 @@ export default function App() {
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-4">
               <a href="https://crofam-token.com" target="_blank" rel="noopener noreferrer">
-                <button className="bg-orange-500 p-1 rounded-lg hover:bg-orange-600 transition-colors duration-200">
+                <button className="bg-blue-500 p-1 rounded-lg hover:bg-blue-600 transition-colors duration-200">
                   <img 
                     src="https://crofam-token.com/wp-content/uploads/2024/04/crofam_logo-2-300x93.png"
                     alt="Logo"
