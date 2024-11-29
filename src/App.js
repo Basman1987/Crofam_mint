@@ -591,7 +591,7 @@ export default function App() {
           <h2 
             className="text-2xl md:text-2xl font-bold mb-6 text-white text-center"
             style={{ 
-              fontFamily: "'Vegan Abattoir', sans-serif;,
+              fontFamily: "'Vegan Abattoir', sans-serif",
               letterSpacing: '0.05em',
               lineHeight: '1.2',
               textShadow: '2px 2px 4px rgba(0, 0, 0, 0.3)'
