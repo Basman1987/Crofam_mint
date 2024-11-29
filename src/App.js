@@ -380,16 +380,16 @@ export default function App() {
         <div className="container mx-auto px-4 py-4">
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-4">
-              <a href="https://originz.crazzzymonsters.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://crofam-token.com" target="_blank" rel="noopener noreferrer">
                 <button className="bg-orange-500 p-1 rounded-lg hover:bg-orange-600 transition-colors duration-200">
                   <img 
-                    src="https://originz.crazzzymonsters.com/assets/logo-mini-8Yrt7yOx.png"
+                    src="https://crofam-token.com/wp-content/uploads/2024/04/crofam_logo-2-300x93.png"
                     alt="Logo"
                     className="w-16 h-8 md:w-15 md:h-10"
                   />
                 </button>
               </a>
-              <span className="text-lg md:text-xl font-bold">CRAZZZY MONSTERS</span>
+              <span className="text-lg md:text-xl font-bold">CROFAM LIONS</span>
             </div>
             
             <div className="relative">
@@ -591,7 +591,7 @@ export default function App() {
           <h2 
             className="text-2xl md:text-2xl font-bold mb-6 text-white text-center"
             style={{ 
-              fontFamily: "'Melted Monster', sans-serif",
+              fontFamily: "Vegan Abattoir', sans-serif",
               letterSpacing: '0.05em',
               lineHeight: '1.2',
               textShadow: '2px 2px 4px rgba(0, 0, 0, 0.3)'
