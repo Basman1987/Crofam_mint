@@ -383,7 +383,7 @@ export default function App() {
               <a href="https://crofam-token.com" target="_blank" rel="noopener noreferrer">
                 <button className="bg-blue-500 p-1 rounded-lg hover:bg-blue-600 transition-colors duration-200">
                   <img 
-                    src="https://crofam-token.com/wp-content/uploads/2024/04/crofam_logo-2-300x93.png"
+                    src="https://crofam-token.com/wp-content/uploads/2024/05/logo_pure_500px.png"
                     alt="Logo"
                     className="w-16 h-8 md:w-15 md:h-10"
                   />
@@ -563,7 +563,7 @@ export default function App() {
                   disabled={isLoading || isPaused || !account || isWrongNetwork}
                   className="bg-purple-500 hover:bg-purple-600 disabled:bg-gray-600 disabled:cursor-not-allowed px-6 py-3 rounded-xl font-bold transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:ring-opacity-50"
                 >
-                  {isLoading ? 'Minting...' : 'Mint with CRY'}
+                  {isLoading ? 'Minting...' : 'Mint with CROFAM'}
                 </button>
               </div>
             </div>
@@ -577,7 +577,7 @@ export default function App() {
                 </li>
                 <li className="flex items-start">
                   <span className="mr-2">•</span>
-                  <span><span className="text-purple-500 font-semibold">CRY</span>: Mint using CRY tokens with special benefits</span>
+                  <span><span className="text-purple-500 font-semibold">CROFAM</span>: Mint using CROFAM tokens with special benefits</span>
                 </li>
               </ul>
               <p className="mt-2 text-xs">Note: Make sure you have sufficient balance and approved tokens before minting.</p>
@@ -605,8 +605,8 @@ export default function App() {
               <p className="font-bold">{croPrice} CRO</p>
             </div>
             <div className="bg-gray-700 rounded-xl p-4">
-              <p className="text-gray-400 text-sm mb-1">Price CRY</p>
-              <p className="font-bold">{cryPrice} CRY</p>
+              <p className="text-gray-400 text-sm mb-1">Price CROFAM</p>
+              <p className="font-bold">{cryPrice} CROFAM</p>
             </div>
             <div className="bg-gray-700 rounded-xl p-4">
               <p className="text-gray-400 text-sm mb-1">Max Per Transaction</p>
@@ -628,7 +628,7 @@ export default function App() {
 
         <div className="bg-gray-800 rounded-2xl p-8 mt-6">
           <p className="text-gray-200 text-center text-lg max-w-4xl mx-auto leading-relaxed">
-          Introducing 'Arcane Creatures,' the female counterparts to our original 'Crazzzy Monsters' collection. This second edition of 10,000 unique NFTs draws...
+          Introducing 'THE PRIDE 'By CROFAM
           </p>
               </div>
             </div>
@@ -636,10 +636,10 @@ export default function App() {
 
         <footer className="bg-gray-800 mt-8 py-8 border-t border-gray-700">
           <div className="container mx-auto px-4 text-center">
-            <h3 className="text-xl font-bold mb-4">Join the Crazzzy Monsters adventure!</h3>
+            <h3 className="text-xl font-bold mb-4">Join the PRIDE</h3>
             <p className="text-gray-400">
               Built By <a 
-              href="https://x.com/CrazzzyMonsters" 
+              href="https://x.com/HQCroFam" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="text-orange-500 hover:text-orange-600 transition-colors"
