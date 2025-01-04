@@ -383,7 +383,7 @@ export default function App() {
               <a href="https://crofam-token.com" target="_blank" rel="noopener noreferrer">
                 <button className="bg-blue-500 p-1 rounded-lg hover:bg-blue-600 transition-colors duration-200">
                   <img 
-                    src="https://crofam-token.com/wp-content/uploads/2024/05/logo_pure_500px.png"
+                    src="https://i.postimg.cc/8zQ9LV4d/the-pride-logo-final-1x1.jpg"
                     alt="Logo"
                     className="w-16 h-8 md:w-15 md:h-10"
                   />
@@ -459,7 +459,7 @@ export default function App() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 lg:min-h-[600px]">
           <div className="w-full h-full">
             <img
-              src="/img/crofam.jpg"
+              src="/img/crofam1.jpg"
               alt="NFT Preview"
               className="rounded-xl w-full h-full object-cover"
             />
@@ -628,7 +628,7 @@ export default function App() {
 
         <div className="bg-gray-800 rounded-2xl p-8 mt-6">
           <p className="text-gray-200 text-center text-lg max-w-4xl mx-auto leading-relaxed">
-          Introducing 'THE PRIDE 'By CROFAM
+          Introducing 'THE PRIDE' By CROFAM
           </p>
               </div>
             </div>
