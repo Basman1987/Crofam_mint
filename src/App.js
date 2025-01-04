@@ -495,12 +495,12 @@ export default function App() {
             <div className="space-y-3">
               <div className="flex justify-between items-center text-sm text-gray-400">
                 <span>Total Minted</span>
-                <span className="font-medium">{totalMinted}/10000</span>
+                <span className="font-medium">{totalMinted}/3000</span>
               </div>
               <div className="bg-gray-700 rounded-full h-4 overflow-hidden">
                 <div
                   className="bg-orange-500 h-full transition-all duration-500 ease-in-out rounded-full"
-                  style={{ width: `${(totalMinted / 10000) * 100}%` }}
+                  style={{ width: `${(totalMinted / 3000) * 100}%` }}
                 />
               </div>
               <div className="grid grid-cols-2 gap-4 text-sm">
