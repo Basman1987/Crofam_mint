@@ -628,7 +628,11 @@ export default function App() {
 
         <div className="bg-gray-800 rounded-2xl p-8 mt-6">
           <p className="text-gray-200 text-center text-lg max-w-4xl mx-auto leading-relaxed">
-          Introducing 'THE PRIDE' By CROFAM
+          Introducing 'THE PRIDE' By CROFAM Welcome to the realm of THE PRIDE: a legendary tribe of 3,000 lions!
+In a world draped in black and white, color is the most precious resource, a rare and coveted force of vitality and hope. While most lions remain in grayscale, 
+a select few bear hints of vibrant color, symbolizing the powerful resource that can transform their world. Despite their differences, 
+THE PRIDE stands united, bound by an unshakable belief in the future of the CROFAM. 
+Will you join their mission? Claim your place among THE PRIDE and be part of this extraordinary journey toward a bold new legacy.
           </p>
               </div>
             </div>
