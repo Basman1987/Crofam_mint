@@ -610,7 +610,7 @@ export default function App() {
             </div>
             <div className="bg-gray-700 rounded-xl p-4">
               <p className="text-gray-400 text-sm mb-1">Max Per Transaction</p>
-              <p className="font-bold">25 NFTs</p>
+              <p className="font-bold">15 NFTs</p>
             </div>
             <div className="bg-gray-700 rounded-xl p-4">
               <p className="text-gray-400 text-sm mb-1">Contract</p>
