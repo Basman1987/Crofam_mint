@@ -770,7 +770,7 @@ export default function App() {
               Twitter
             </a>
             <a
-              href="https://crazzzymonsters.com/static/media/Policy.8820d95f7ec77e6dcc79.pdf"
+              href="https://crofam-token.com/wp-content/uploads/2025/02/THE_PRIDE_TermsAndConditions.pdf"
               className="text-gray-400 hover:text-white transition-colors"
               target="_blank"
               rel="noopener noreferrer"
