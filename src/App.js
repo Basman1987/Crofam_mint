@@ -436,7 +436,7 @@ export default function App() {
                   <img
                     src="https://i.postimg.cc/MKXj6yZx/IMG-20250402-WA0038.jpg"
                     alt="Logo"
-                    className="w-16 h-8 md:w-15 md:h-10"
+                    className="w-10 h-10 md:w-12 md:h-12"
                   />
                 </button>
               </a>
