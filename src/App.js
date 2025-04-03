@@ -440,7 +440,7 @@ export default function App() {
                   />
                 </button>
               </a>
-              <span className="text-lg md:text-xl font-bold">CROFAM LIONS</span>
+              <span className="text-lg md:text-xl font-bold">THE PRIDE</span>
             </div>
 
             <div className="relative">
@@ -532,7 +532,7 @@ export default function App() {
                   textShadow: "2px 2px 4px rgba(0, 0, 0, 0.3)",
                 }}
               >
-                The PRIDE by $CROFam Token
+                ThePRIDE powered by Cronos
               </h1>
 
               <div className="grid grid-cols-2 gap-4">
