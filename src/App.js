@@ -434,7 +434,7 @@ export default function App() {
               >
                 <button className="bg-blue-500 p-1 rounded-lg hover:bg-blue-600 transition-colors duration-200">
                   <img
-                    src="https://i.postimg.cc/8zQ9LV4d/the-pride-logo-final-1x1.jpg"
+                    src="https://i.postimg.cc/MKXj6yZx/IMG-20250402-WA0038.jpg"
                     alt="Logo"
                     className="w-16 h-8 md:w-15 md:h-10"
                   />
@@ -762,7 +762,7 @@ export default function App() {
               Discord
             </a>
             <a
-              href="https://x.com/HQCroFam"
+              href="https://x.com/PRIDEonCRO"
               className="text-gray-400 hover:text-white transition-colors"
               target="_blank"
               rel="noopener noreferrer"
@@ -779,7 +779,7 @@ export default function App() {
             </a>
           </div>
           <p className="text-gray-400 mt-6">
-            © 2024 - Powered by Crazzzy Monsters
+            © 2025 - Powered by Crazzzy Monsters
           </p>
         </div>
       </footer>
