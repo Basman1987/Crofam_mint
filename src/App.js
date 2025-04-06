@@ -434,7 +434,7 @@ export default function App() {
               >
                 <button className="bg-blue-500 p-1 rounded-lg hover:bg-blue-600 transition-colors duration-200">
                   <img
-                    src="https://i.postimg.cc/MKXj6yZx/IMG-20250402-WA0038.jpg"
+                    src="https://i.postimg.cc/dV7VThQq/IMG-20250406-215124.jpg"
                     alt="Logo"
                     className="w-10 h-10 md:w-12 md:h-12"
                   />
