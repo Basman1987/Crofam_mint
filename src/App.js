@@ -775,11 +775,27 @@ export default function App() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Terms & Conditions
-            </a>
-          </div>
-          <p className="text-gray-400 mt-6">
-            © 2025 - Powered by Crazzzy Monsters
+      Terms & Conditions
+      </a>
+      <a
+        href="https://crofam-token.com/wp-content/uploads/2025/04/pride_roadmap.pdf"
+        className="text-gray-400 hover:text-white transition-colors"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Roadmap
+      </a>
+      <a
+        href="https://crofam-token.com/wp-content/uploads/2025/04/pride_whitepaper.pdf"
+        className="text-gray-400 hover:text-white transition-colors"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Whitepaper
+      </a>
+    </div>
+    <p className="text-gray-400 mt-6">
+      © 2025 - Powered by Crazzzy Monsters
           </p>
         </div>
       </footer>
