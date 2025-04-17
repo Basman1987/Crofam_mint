@@ -17,7 +17,7 @@ export default function Header({
       <div className="container mx-auto px-4 py-4">
         <div className="flex justify-between items-center">
           <div className="flex items-center space-x-4">
-            <a href="https://crofam-token.com/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.thepride.fun/" target="_blank" rel="noopener noreferrer">
               <button className="bg-orange-500 p-1 rounded-lg hover:bg-orange-600 transition-colors duration-200">
                 <img 
                   src="https://crofam-token.com/wp-content/uploads/2024/04/crofam_logo-2-300x93.png"
