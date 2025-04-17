@@ -770,7 +770,7 @@ export default function App() {
               Twitter
             </a>
             <a
-              href="https://crofam-token.com/wp-content/uploads/2025/02/THE_PRIDE_TermsAndConditions.pdf"
+              href="https://thepride.cloud/wp-content/uploads/2025/02/THE_PRIDE_TermsAndConditions.pdf"
               className="text-gray-400 hover:text-white transition-colors"
               target="_blank"
               rel="noopener noreferrer"
@@ -778,7 +778,7 @@ export default function App() {
       Terms & Conditions
       </a>
       <a
-        href="https://crofam-token.com/wp-content/uploads/2025/04/pride_roadmap.pdf"
+        href="https://thepride.cloud/wp-content/uploads/2025/04/pride_roadmap.pdf"
         className="text-gray-400 hover:text-white transition-colors"
         target="_blank"
         rel="noopener noreferrer"
@@ -786,7 +786,7 @@ export default function App() {
         Roadmap
       </a>
       <a
-        href="https://crofam-token.com/wp-content/uploads/2025/04/pride_whitepaper.pdf"
+        href="https://thepride.cloud/wp-content/uploads/2025/04/pride_whitepaper.pdf"
         className="text-gray-400 hover:text-white transition-colors"
         target="_blank"
         rel="noopener noreferrer"
