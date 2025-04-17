@@ -428,7 +428,7 @@ export default function App() {
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-4">
               <a
-                href="https://crofam-token.com"
+                href="https://www.thepride.fun/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
