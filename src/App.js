@@ -770,7 +770,7 @@ export default function App() {
               Twitter
             </a>
             <a
-              href="https://thepride.cloud/wp-content/uploads/2025/02/THE_PRIDE_TermsAndConditions.pdf"
+              href="https://thepride.cloud/wp-content/uploads/2025/04/THE_PRIDE_TermsAndConditions.pdf"
               className="text-gray-400 hover:text-white transition-colors"
               target="_blank"
               rel="noopener noreferrer"
