@@ -53,7 +53,7 @@ export default function App() {
   const [totalMinted, setTotalMinted] = useState(0);
   const [croPrice, setCroPrice] = useState("0");
   const [croFamPrice, setCroFamPrice] = useState("0");
-  const [isPaused, setIsPaused] = useState(true);
+  const [isPaused, setIsPaused] = useState(false);
   const [mintAmount, setMintAmount] = useState(1);
   const [isLoading, setIsLoading] = useState(false);
   const [croMinted, setCroMinted] = useState(0);
